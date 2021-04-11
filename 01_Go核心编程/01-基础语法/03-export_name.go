@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
+	"math"
 )
 
 func main() {
-	fmt.Println("Hello Golang and I'm coming")
+	fmt.Println(math.Pi)
 
 }
